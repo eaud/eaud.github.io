@@ -7,8 +7,10 @@ sharing: true
 footer: true
 ---
 
-![D3 visualization from ](http://i.stack.imgur.com/JPYn9.gif)
+![D3 visualization from ](http://i.stack.imgur.com/JPYn9.gif =700)
+
 source: http://stackoverflow.com/questions/18056678/hiding-text-elements-in-d3-chord-diagram
+
 
 ### What is D3.js?
 ###### R2D-who? More like D3, *honey.*
