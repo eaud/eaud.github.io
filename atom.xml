@@ -4,7 +4,7 @@
   <title><![CDATA[syntactic umami]]></title>
   <link href="http://eaud.github.io/atom.xml" rel="self"/>
   <link href="http://eaud.github.io/"/>
-  <updated>2015-12-16T21:31:05-05:00</updated>
+  <updated>2015-12-16T22:36:00-05:00</updated>
   <id>http://eaud.github.io/</id>
   <author>
     <name><![CDATA[Derek Mueller]]></name>
@@ -33,7 +33,7 @@ source: <a href="http://stackoverflow.com/questions/18056678/hiding-text-element
 
 <p>*(a Javascript library, in case that&rsquo;s an unfamiliar term, is essentially a set of extra methods that have been pre-made for you out of existing Javascript functionality.)</p>
 
-<blockquote><h6>The first time I heard of D3, it was like, <br>&ldquo;oh wow. oh wow. oh. wow.&rdquo;</h6>
+<blockquote><h5>The first time I heard of D3, it was like, <br>&ldquo;oh wow. oh wow. oh. wow.&rdquo;</h5>
 
 <p>It was exciting. It was tactile. It was beautiful sexy.</p></blockquote>
 
