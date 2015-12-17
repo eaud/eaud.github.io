@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5-minute guide: how to begin using d3.js"
+title: "5-Minute guide: how to begin using D3.js"
 date: 2015-12-16 22:55
 comments: true
 sharing: true
