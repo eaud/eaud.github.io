@@ -21,7 +21,7 @@ Enter [D3.js](http://d3js.org/) - a Javascript library\* that provides methods f
 
 \*(a Javascript library, in case that's an unfamiliar term, is essentially a set of extra methods that have been pre-made for you out of existing Javascript functionality.)
 
-> ###### The first time I heard of D3, it was like, <br>"oh wow. oh wow. oh. wow."
+> ##### The first time I heard of D3, it was like, <br>"oh wow. oh wow. oh. wow."
 
 >It was exciting. It was tactile. It was beautiful sexy.
 
