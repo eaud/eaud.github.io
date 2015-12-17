@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[syntactic umami]]></title>
+  <title><![CDATA[derek mueller]]></title>
   <link href="http://eaud.github.io/atom.xml" rel="self"/>
   <link href="http://eaud.github.io/"/>
-  <updated>2015-12-16T22:44:32-05:00</updated>
+  <updated>2015-12-17T00:20:04-05:00</updated>
   <id>http://eaud.github.io/</id>
   <author>
     <name><![CDATA[Derek Mueller]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[5-Minute Guide: How to Begin Using D3.js]]></title>
+    <title type="html"><![CDATA[5-Minute Guide: how to begin using D3.js]]></title>
     <link href="http://eaud.github.io/blog/2015/12/16/how-to-begin-using-d3/"/>
     <updated>2015-12-16T22:55:00-05:00</updated>
     <id>http://eaud.github.io/blog/2015/12/16/how-to-begin-using-d3</id>
@@ -98,7 +98,7 @@ source: <a href="http://stackoverflow.com/questions/18056678/hiding-text-element
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[When You Start a Blog]]></title>
+    <title type="html"><![CDATA[when you start a blog]]></title>
     <link href="http://eaud.github.io/blog/2015/12/02/when-you-start-a-blog/"/>
     <updated>2015-12-02T17:33:35-05:00</updated>
     <id>http://eaud.github.io/blog/2015/12/02/when-you-start-a-blog</id>
