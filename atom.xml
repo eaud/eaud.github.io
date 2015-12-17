@@ -4,7 +4,7 @@
   <title><![CDATA[syntactic umami]]></title>
   <link href="http://eaud.github.io/atom.xml" rel="self"/>
   <link href="http://eaud.github.io/"/>
-  <updated>2015-12-16T22:36:00-05:00</updated>
+  <updated>2015-12-16T22:44:32-05:00</updated>
   <id>http://eaud.github.io/</id>
   <author>
     <name><![CDATA[Derek Mueller]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[5-minute Guide: How to Begin Using d3.js]]></title>
+    <title type="html"><![CDATA[5-Minute Guide: How to Begin Using D3.js]]></title>
     <link href="http://eaud.github.io/blog/2015/12/16/how-to-begin-using-d3/"/>
     <updated>2015-12-16T22:55:00-05:00</updated>
     <id>http://eaud.github.io/blog/2015/12/16/how-to-begin-using-d3</id>
